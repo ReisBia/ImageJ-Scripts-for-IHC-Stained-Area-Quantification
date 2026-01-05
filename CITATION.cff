@@ -1,9 +1,0 @@
-cff-version: 1.0.0
-message: "If you use these scripts, please cite them as below."
-authors:
-- family-names: "Reis Santos"
-  given-names: "Bianca"
-title: "ImageJ Scripts for IHC: Stained Area Quantification"
-version: 1.0.0
-date-released: 2026-01-05
-url: "https://github.com/ReisBia/ImageJ-Scripts-for-IHC-Stained-Area-Quantification"
