@@ -1,4 +1,4 @@
-# ImageJ-Scripts-for-IHC-Stained-Area-Quantification
+# ImageJ Scripts for IHC: Stained Area Quantification
 Automated ImageJ/Fiji scripts for IHC (H; DAB) quantification: colour deconvolution, thresholding, and area measurement.
 
 ## Description
