@@ -68,3 +68,8 @@ You can download the scripts directly by clicking the links below:
 * [Download Step 2: Automated Thresholding and Measurement](Macros/Step%202_Automated_Thresholding_and_Measurement.ijm)
 
 > **Tip:** To download, right-click the link and select "Save link as...".
+
+## Citation
+If you use these scripts in your research, please cite this repository:
+  
+  SANTOS, BR. (2026). ImageJ Scripts for IHC: Stained Area Quantification (Version 1.0.0). GitHub. URL: [https://github.com/ReisBia/ImageJ-Scripts-for-IHC-Stained-Area-Quantification]
