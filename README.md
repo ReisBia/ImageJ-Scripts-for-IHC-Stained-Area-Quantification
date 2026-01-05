@@ -46,7 +46,7 @@ This repository contains two scripts designed to automate the quantification of 
 
 ## Here is an example of the processing performed by the scripts:
 
-| **Original (H-DAB)** | ** Step 1 - DAB Layer** | **Step 2 - Threshold Mask**|  **Step 2 - Measurements**|
+| **Original (H-DAB)** | **Step 1 - DAB Layer** | **Step 2 - Threshold Mask**|  **Step 2 - Measurements**|
 | :---: | :---: | :---: | :---: |
 | ![Original](screenshots/original.png) | ![DAB](screenshots/(Colour).png) | ![Mask](screenshots/mask.jpg) |![Measurements](screenshots/result.png) |
 
@@ -69,7 +69,3 @@ You can download the scripts directly by clicking the links below:
 
 > **Tip:** To download, right-click the link and select "Save link as...".
 
-## Citation
-If you use these scripts in your research, please cite this repository:
-  
-  SANTOS, BR. (2026). ImageJ Scripts for IHC: Stained Area Quantification (Version 1.0.0). GitHub. URL: [https://github.com/ReisBia/ImageJ-Scripts-for-IHC-Stained-Area-Quantification]
