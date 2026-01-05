@@ -60,3 +60,11 @@ This repository contains two scripts designed to automate the quantification of 
 | **1 – Run Macro** | **2 – Choose the macro file** | **3 – Enter the threshold value** | **4 – Choose the folder containing the images for thresholding** | **5 – Obtain the results from the *Measurements* table** |
 | :---: | :---: | :---: | :---: |:---: |
 | ![1](screenshots/1.png) | ![2](screenshots/7.png) | ![3](screenshots/5.png) |![4](screenshots/4.png) |![5](screenshots/9.png) |
+
+## 📥 Download Scripts
+You can download the scripts directly by clicking the links below:
+
+* [Download Step 1: Automated Colour Deconvolution](Macros/Step 1_Automated Colour Deconvolution.ijm) 
+* [Download Step 2: Automated Thresholding and Measurement](Macros/Step 2_Automated Thresholding and Measurement.ijm) 
+
+> **Tip:** To download, right-click the link and select "Save link as...".
