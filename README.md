@@ -39,7 +39,7 @@ Here is an example of the processing performed by the scripts:
 
 | **Original (H-DAB)** | **Step 1: DAB Layer** | **Step 2: Threshold Mask and Measurements**|
 | :---: | :---: | :---: |
-| ![Original](screenshots/Original.tif) | ![DAB](screenshots/(Colour_2).tif) | ![Mask](screenshots/mask.jpg) |![Measurements](screenshots/result.png) |
+| ![Original](screenshots/Original.png) | ![DAB](screenshots/(Colour_2).png) | ![Mask](screenshots/mask.jpg) |![Measurements](screenshots/result.png) |
 
 Here is a step-by-step example of how the script works:
 *Step 1_Automated Colour Deconvolution* 
